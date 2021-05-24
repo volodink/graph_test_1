@@ -1,0 +1,4 @@
+ABCD
+AB
+BC
+CD
